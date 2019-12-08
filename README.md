@@ -11,6 +11,7 @@
 - [Я уже слишком крут для каких-то там задачек и даже сделал ToDo app. Вот бы был список с прикольными идеями для нормальной практики, а не всякие там ваши алгоритмы](#training-ideas)
 4. [А какие ресурсы / книги бы вы могли посоветовать для прокачки моих скиллов?](#resources)
 - [JavaScript](#resources-javascript)
+- [CSS](#resources-css)
 
 ## <a name="makets"></a> Где взять макеты для практики верстки?
 
@@ -56,8 +57,23 @@
 
 ### <a name="resources-javascript"></a>JavaScript
 
+Ресурсы
 1. [Лучший ресурс по изучению на данный момент](https://learn.javascript.ru/)
 
 Книги
 1. [Вы не знаете JS](https://github.com/azat-io/you-dont-know-js-ru)
 2. [Выразительный JavaScript](https://eloquentjavascript.net/) 
+
+### <a name="resources-css"></a>CSS
+
+Ресурсы
+1. [Flexboxdefense](http://www.flexboxdefense.com/)
+2. [Mastery Games](https://mastery.games/)
+3. [Flexboxfroggy](https://flexboxfroggy.com/)
+4. [Cssgridgarden](https://cssgridgarden.com/)
+5. [Gridcritters](https://gridcritters.com/)
+6. [Cssbattle](https://cssbattle.dev/)
+
+Книги
+1. Новая большая книга CSS | Макфарланд Дэвид Сойер
+2. CSS для профи | Грант Кит
