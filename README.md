@@ -64,6 +64,9 @@
 1. [Вы не знаете JS](https://github.com/azat-io/you-dont-know-js-ru)
 2. [Выразительный JavaScript](https://eloquentjavascript.net/) 
 
+Книги про  алгоритмы:
+1. Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих | Бхаргава Адитья
+
 ### <a name="resources-css"></a>CSS
 
 Ресурсы
